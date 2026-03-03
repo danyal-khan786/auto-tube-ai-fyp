@@ -1,0 +1,7 @@
+venv/
+virt/
+node_modules/
+
+*.env
+secrets.json
+*.sqlite3
